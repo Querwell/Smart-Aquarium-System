@@ -14,7 +14,7 @@
 
 **Smart Aquarium & Automatic Feeding System** is a command-line based aquarium management simulation written in pure C (C99 standard). The system allows users to monitor and control three core aquarium parameters — water temperature, food stock, and filter contamination — through an interactive terminal menu with full input validation.
 
-This project was developed by **Timur Kabatash** as a foundational C programming exercise before beginning studies in **Mechatronics Engineering at Warsaw University of Technology (WUT)** in October 2025. The primary goals were to practice low-level logic, build a structured CLI interface, and correctly manage program state across a persistent loop.
+This project was developed by **Timur Kabatash** as a foundational C programming exercise before beginning studies in **Mechatronics Engineering at Warsaw University of Technology (WUT)** in October 2026. The primary goals were to practice low-level logic, build a structured CLI interface, and correctly manage program state across a persistent loop.
 
 ---
 
